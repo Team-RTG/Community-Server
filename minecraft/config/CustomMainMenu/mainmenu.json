@@ -1,0 +1,156 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "mainmenu:RTG-Title.png",
+            "posX" : -210,
+            "posY" : 10,
+            "width" : 200,
+            "height" : 60,
+            "alignment" : "top_right"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -140,
+            "posY" : -140,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -140,
+            "posY" : -120,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : -140,
+            "posY" : -100,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -140,
+            "posY" : -80,
+            "width" : 80,
+            "height" : 20,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -60,
+            "posY" : -80,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : -140,
+            "posY" : -60,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 180,
+            "posY" : 200,
+            "width" : 0,
+            "height" : 0,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : ["mainmenu:bg1.png","mainmenu:bg2.png","mainmenu:bg3.png","mainmenu:bg4.png","mainmenu:bg5.png","mainmenu:bg6.png","mainmenu:bg7.png","mainmenu:bg8.png","mainmenu:bg9.png","mainmenu:bg10.png"],
+                "displayDuration" : 100,
+                "fadeDuration" : 40,
+                "shuffle ": true
+            }
+        }
+    }
+}

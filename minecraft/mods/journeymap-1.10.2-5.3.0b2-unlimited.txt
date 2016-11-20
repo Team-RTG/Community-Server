@@ -1,0 +1,2 @@
+journeymap-1.10.2-5.3.0b2-unlimited is not included due to the JourneyMap license.
+you can get it here: https://minecraft.curseforge.com/projects/journeymap-32274/files/2337081
