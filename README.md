@@ -3,7 +3,7 @@
 Modlist:
 
 Note that JourneyMap isn't included here as per the JourneyMap license.
-You can get it here: [JourneyMap @ CurseForge](https://minecraft.curseforge.com/projects/journeymap-32274/files)
+You can get it here: [JourneyMap @ CurseForge](https://minecraft.curseforge.com/projects/journeymap-32274/files/2348043)
 
 Common Mods:
 * [Actually Additions - by Ellpeck](https://minecraft.curseforge.com/projects/actually-additions)
@@ -42,6 +42,7 @@ Common Mods:
 * [Reliquary (v1.3) - by P3pp3rF1y](https://minecraft.curseforge.com/projects/reliquary-v1-3)
 * [Sleeping Bag - by Shadowfacts](https://minecraft.curseforge.com/projects/sleeping-bag)
 	- [LIB: ShadowMC - by Shadowfacts](https://minecraft.curseforge.com/projects/shadowmc)
+		- [LIB: Forgelin](https://minecraft.curseforge.com/projects/shadowfacts-forgelin)
 * [StepUp - by NotTooManyItems](https://minecraft.curseforge.com/projects/stepup)
 * [Storage Drawers - by jaquadro](https://minecraft.curseforge.com/projects/storage-drawers)
 	- [LIB: Chameleon - by jaquadro](https://minecraft.curseforge.com/projects/chameleon)
@@ -58,6 +59,8 @@ Client-only mods:
 * [Chameleon Creepers - by Vel0cityX](https://minecraft.curseforge.com/projects/chameleon-creepers)
 * [Hwyla - by TehNut](https://minecraft.curseforge.com/projects/hwyla)
 * [Wawla - by Darkhax](https://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at)
+* [Custom Main Menu](https://minecraft.curseforge.com/projects/custom-main-menu)
+* [Resource Loader](https://minecraft.curseforge.com/projects/resource-loader)
 
 ---
 
