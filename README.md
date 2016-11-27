@@ -46,7 +46,7 @@ Common Mods:
 * [StepUp - by NotTooManyItems](https://minecraft.curseforge.com/projects/stepup)
 * [Storage Drawers - by jaquadro](https://minecraft.curseforge.com/projects/storage-drawers)
 	- [LIB: Chameleon - by jaquadro](https://minecraft.curseforge.com/projects/chameleon)
-	- [ADDON: Drawers Bits - by Belgabor](https://minecraft.curseforge.com/projects/drawers-bits)
+	- ~~[ADDON: Drawers Bits - by Belgabor](https://minecraft.curseforge.com/projects/drawers-bits)~~ Removed in 1.1.3
 * [Tinkers' Construct - by SlimeKnights](https://minecraft.curseforge.com/projects/tinkers-construct)
 	- [LIB: Mantle - by SlimeKnights](https://minecraft.curseforge.com/projects/mantle)
 * [Tomb Many Graves - by M4thG33k](https://minecraft.curseforge.com/projects/tomb-many-graves)
